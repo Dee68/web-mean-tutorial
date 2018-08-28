@@ -1,0 +1,31 @@
+{
+  "name": "web-mean-tutorial",
+  "version": "1.0.0",
+  "description": "Mean Stack Ecommerce web site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dee68/web-mean-tutorial.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Ecommerce"
+  ],
+  "author": "mrdee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dee68/web-mean-tutorial/issues"
+  },
+  "homepage": "https://github.com/Dee68/web-mean-tutorial#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.10"
+  }
+}
